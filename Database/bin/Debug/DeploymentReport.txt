@@ -1,0 +1,23 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Crear
+       [dbo].[Author] (Tabla)
+       [dbo].[Book] (Tabla)
+       [dbo].[Editorial] (Tabla)
+       [dbo].[Loan] (Tabla)
+       [dbo].[Partner] (Tabla)
+       [dbo].[FK_BookAuthor] (Clave externa)
+       [dbo].[FK_BookEditorial] (Clave externa)
+       [dbo].[FK_LoanBook] (Clave externa)
+       [dbo].[FK_LoanPartner] (Clave externa)
+
+** Acciones de compatibilidad

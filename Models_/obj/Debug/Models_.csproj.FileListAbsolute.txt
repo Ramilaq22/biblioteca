@@ -1,0 +1,12 @@
+C:\Users\ramir\Desktop\EJ01\Models_\bin\Debug\Models_.dll
+C:\Users\ramir\Desktop\EJ01\Models_\bin\Debug\Models_.pdb
+C:\Users\ramir\Desktop\EJ01\Models_\obj\Debug\Models_.csprojAssemblyReference.cache
+C:\Users\ramir\Desktop\EJ01\Models_\obj\Debug\Models_.csproj.CoreCompileInputs.cache
+C:\Users\ramir\Desktop\EJ01\Models_\obj\Debug\Models_.dll
+C:\Users\ramir\Desktop\EJ01\Models_\obj\Debug\Models_.pdb
+C:\Users\Ramiro\Desktop\EJ01\Models_\bin\Debug\Models_.dll
+C:\Users\Ramiro\Desktop\EJ01\Models_\bin\Debug\Models_.pdb
+C:\Users\Ramiro\Desktop\EJ01\Models_\obj\Debug\Models_.csprojAssemblyReference.cache
+C:\Users\Ramiro\Desktop\EJ01\Models_\obj\Debug\Models_.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Desktop\EJ01\Models_\obj\Debug\Models_.dll
+C:\Users\Ramiro\Desktop\EJ01\Models_\obj\Debug\Models_.pdb

@@ -1,0 +1,12 @@
+﻿CREATE TABLE [dbo].[Loan]
+(
+	[LoanID] INT NOT NULL IDENTITY(1,1),
+	[BookID] INT NOT NULL,
+	[PartnerID] INT NOT NULL,
+	[LoanDate] DATETIME NOT NULL, 
+	[EstimatedDate] DATETIME NOT NULL, 
+	[DevolutionDate] DATETIME NOT NULL, 
+    CONSTRAINT PK_Loan PRIMARY KEY (LoanID),
+	CONSTRAINT FK_LoanBook FOREIGN KEY (BookID) REFERENCES Book(BookID),
+	CONSTRAINT FK_LoanPartner FOREIGN KEY (PartnerID) REFERENCES Partner(PartnerID),
+)

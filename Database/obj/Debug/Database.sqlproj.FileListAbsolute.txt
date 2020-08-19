@@ -1,0 +1,10 @@
+C:\Users\ramir\Desktop\EJ01\Database\bin\Debug\Database.dacpac
+C:\Users\ramir\Desktop\EJ01\Database\bin\Debug\Database.dll
+C:\Users\ramir\Desktop\EJ01\Database\bin\Debug\Database.pdb
+C:\Users\ramir\Desktop\EJ01\Database\obj\Debug\Database.sqlprojAssemblyReference.cache
+C:\Users\ramir\Desktop\EJ01\Database\obj\Debug\Model.xml
+C:\Users\ramir\Desktop\EJ01\Database\obj\Debug\refactor.xml
+C:\Users\ramir\Desktop\EJ01\Database\obj\Debug\postdeploy.sql
+C:\Users\ramir\Desktop\EJ01\Database\obj\Debug\predeploy.sql
+C:\Users\ramir\Desktop\EJ01\Database\obj\Debug\Database.dll
+C:\Users\ramir\Desktop\EJ01\Database\obj\Debug\Database.pdb
